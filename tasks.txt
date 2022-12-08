@@ -1,0 +1,20 @@
+
+boceto de la vista
+boceto de la base de datos
+
+ventana principal
+separa vista 'new_contact'
+ventana de ingreso de datos de contacto
+deshabilitar / habilitar botones al crear / eliminar frame
+
+crear widgets para almacenar datos de contacto
+crear controllador y modelo para contacto
+validar datos
+cerrar vista solo tras enviar exitosamente los datos al modelo
+
+crear base de datos local sqlite3
+almacenar en base de datos
+mostrar datos por terminal
+
+-crear vista de datos almacenados
+-recuperar y mostrar datos en la vista

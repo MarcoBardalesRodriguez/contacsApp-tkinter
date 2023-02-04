@@ -18,3 +18,5 @@ mostrar datos por terminal
 
 -crear vista de datos almacenados
 -recuperar y mostrar datos en la vista
+
+-abrir new_contact en frame principal (no en frame independiente)
